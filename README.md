@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Development.  
 - 🌱 I’m currently learning and building projects to enhance my skills.  
 -💡 Open to collaboration on development projects.  
-- 📫 Reach me via anusreem135@gmail.com
+- 📫 Reach me via anusreem135@gmail.com or linkedin.com/in/anusree--m
 
 <!---
 Anusreemmm/Anusreemmm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
